@@ -17,7 +17,7 @@ Dionaea is what would be called a low-interaction honeypot as it emulates vulner
 
 ### Database Backup
 
-**Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+**Summary:** What is the RDBMS that MHN-Admin uses?
 
 Modern Honey Network is a centralized server for management and data collection of honeypots. MHN-Admin sends intrusion detection logs, and depending on the technology used along with the honeypot (Dionaea, Cowrie, Snort) information on the attack will be captured diversly. 
 
